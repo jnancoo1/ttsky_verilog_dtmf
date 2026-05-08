@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+The project is a dual tone multi frequency generat
+or. It accepts and input from a keypad encoder and it outputs two waves based on the pressed keys.
 ## How to test
 
-Explain how to use your project
+Simulate input patterns and test output using scope
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Analog output circuit required 
