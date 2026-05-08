@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "dtmf verilog test"      # Project title
-  author:       "Jonathan Nancoo"      # Your name
+  author:       "Jonathan Nancoo "      # Your name
   discord:      "jnancoo1"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Dual Time Multi Frequency generator"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
